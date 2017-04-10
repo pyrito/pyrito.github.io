@@ -1,17 +1,17 @@
 
 # SEO settings
-title: "Think"
-title2: "space" # default: ""
-description: "Just another minimalist Jekyll theme for technical writing."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://heiswayi.github.io/thinkspace # site url
+title: "Karthik's"
+title2: "Humble Adobe" # default: ""
+description: "A place where my thoughts can roam free."
+keywords: "Jekyll, theme"
+url: http://pyrito.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+disqus_shortname: "pyrito"
+twitter_username: "pyr1to"
 comments: true
 
 # Build settings
@@ -33,17 +33,17 @@ author:
   job      : "Software Engineer"
   bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
   thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/heiswayi.nrird
-  linkedin : http://linkedin.com/in/nrird
+  email    : pyrito@gmail.com
+  url      : http://heiswayi.pyrito.io
+  github   : http://github.com/pyrito
+  twitter  : http://twitter.com/pyr1to
+  facebook : https://www.facebook.com/
+  linkedin : http://linkedin.com/
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@pyrito"
 
 gems:
   - bourbon
@@ -55,5 +55,7 @@ navbar:
     title: About
   - slug : blog
     title: Blog
+  - slug: projects
+    title: Projects
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
