@@ -1,7 +1,7 @@
 
 # SEO settings
-title: "Karthik's"
-title2: "Humble Adobe" # default: ""
+title: "Karthik's Humble Adobe"
+title2: "" # default: ""
 description: "A place where my thoughts can roam free."
 keywords: "Jekyll, theme"
 url: http://pyrito.github.io # site url
@@ -9,7 +9,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
+repo: http://github.com/pyrito
 disqus_shortname: "pyrito"
 twitter_username: "pyr1to"
 comments: true

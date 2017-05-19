@@ -55,7 +55,7 @@ Let's say you have text that you want to refer with a footnote, you can do that 
 
 ## Code Blocks
 
-```javascript
+{% highlight javascript %}
 var modularpattern = (function() {
     // your module code goes here
     var sum = 0 ;
@@ -73,17 +73,9 @@ var modularpattern = (function() {
 alert(modularpattern.add());    // alerts: 1
 alert(modularpattern.add());    // alerts: 2
 alert(modularpattern.reset());  // alerts: 0
-```
+{% endhighlight %}
 
-```python
-s = "Python syntax highlighting"
-print s
-```
 
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
 
 <div class="divider"></div>
 

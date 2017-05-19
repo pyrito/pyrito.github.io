@@ -1,6 +1,7 @@
 body {
   color: $base-font-color;
   font-family: $base-font-family;
+  //font-family: 'Inconsolata', monospace;
   //font-feature-settings: "kern", "liga", "pnum";
   font-size: $base-font-size;
   line-height: $base-line-height;
@@ -84,15 +85,15 @@ blockquote {
   background-color: lighten($light-gray-color, 15%)
 }
 
-code {
+/*code {
   background: none;
   border-radius: 0;
   border: none;
-  font-family: monospace;
+  font-family: $base-font-code;
   font-size: 1em;
   margin: 0;
   padding: 0 5px;
-  background-color: lighten($light-gray-color, 13%);
+  //background-color: lighten($light-gray-color, 13%);
 }
 
 pre {
@@ -110,10 +111,33 @@ pre {
     line-height: 1.75em;
     padding: 0 !important;
   }
+}*/
+
+pre,
+code {
+    font-family: Inconsolata, monospace;
+    font-size: 17px;
 }
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
 
 strong {
   font-weight: bold;
+  //background-color: lighten(yellow, 15%);
 }
 
 em {
