@@ -1,18 +1,108 @@
+# main text of home
+name: Karthik Velayutham
+bio: Turing Scholar at The University of Texas at Austin
 
-# SEO settings
-title: "Karthik's Humble Adobe"
-title2: "" # default: ""
-description: "A place where my thoughts can roam free."
-keywords: "Jekyll, theme"
-url: http://pyrito.github.io # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+# twitter summary info
+description: A blog about technology and stuff related
 
-google_analytics: UA-XXXXX-XX
-repo: http://github.com/pyrito
-disqus_shortname: "pyrito"
-twitter_username: "pyr1to"
-comments: true
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profilepic.jpg
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://google.com/?q=my+resume
+
+url: https://pyrito.github.io
+# your url: http://USERNAME.github.io
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: mydisqus # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+facebook: kvelayutham22
+twitter: pyrito
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: kvelayutham22
+# youtube: myyoutube
+# spotify: myspotify
+github: pyrito
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+medium: medium
+# vimeo: myvimeo
+email: karthik.velayutham@utexas.edu
+
+authors:
+    kvelayutham:
+        name: Karthik Velayutham
+        bio: Turing Scholar at The University of Texas at Austin
+        external-image: false
+        picture: assets/images/profilepic.jpg
+        twitter: pyr1t0
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-feed
+  - bourbon
+  - jekyll-paginate
+
+jekyll-mentions:
+    base_url: https://github.com/pyrito
 
 # Build settings
 permalink   : /:year/:title/
@@ -21,41 +111,3 @@ highlighter : rouge
 
 source: ./
 destination: ./_site
-
-# Sass configuration
-sass:
-  sass_dir: assets/scss
-  style: compressed # expanded
-
-# Author settings
-author:
-  name     : "Karthik Velayutham"
-  job      : "Turing Scholar at The University of Texas at Austin"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
-  thumb    : /images/author.jpg
-  email    : pyrito@gmail.com
-  url      : http://heiswayi.pyrito.io
-  github   : http://github.com/pyrito
-  twitter  : http://twitter.com/pyr1to
-  facebook : https://www.facebook.com/
-  linkedin : http://linkedin.com/
-
-# social settings
-og_locale: "en_US"
-twitter_card: "summary_large_image"
-twitter_site: "@pyrito"
-
-gems:
-  - bourbon
-  - jekyll-paginate
-
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
-  - slug: projects
-    title: Projects
-
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
