@@ -12,11 +12,11 @@ layout: page
 	<li>HTML</li>
 	<li>Java</li>
 	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>CSS Frameworks (Bootstrap, Foundation)</li>
+	<li>Javascript</li>
 	<li>Unix Shell</li>
 	<li>C</li>
-	<li><C++</li>
+	<li>C++</li>
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Python</li>
