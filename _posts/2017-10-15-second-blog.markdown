@@ -1,5 +1,5 @@
 ---
-title: "First Blog"
+title: "Thoughts on School"
 layout: post
 date: 2017-10-15 20:15
 image: /assets/images/markdown.jpg
