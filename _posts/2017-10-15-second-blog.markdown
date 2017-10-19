@@ -23,7 +23,7 @@ The first week of classes went by as I expected them to. Honestly, I didn't thin
 
 One of the most interesting projects that I have worked on so far is Tetris. Yup. Tetris. We had to make Tetris for CS314H. Now here's the thing: we haven't actually formally learned any data structures yet. As a result, this project was more on us for figuring out what we could use to best accomplish our goals. I'm going to be quite honest and say that the project itself was quite brutal but it was quite the learning experience. Testing the game for hours to get a working product was a rewarding process and I definitely understood more about CS as a whole through that process. 
 
-I plan to keep this blog a little more updated later on, but I don't have all the time to keep this constantly updated. I will try to cover the highlights of how everything is going, but for now, this is it! I'll talk later!
+I plan to keep this blog a little more updated later on, but I don't have all the time to keep this constantly updated. I will try to cover the highlights of how everything is going, but for now, this is it! I'll talk later! See ya!
 <div class="breaker"></div>
 
 
