@@ -1,3 +1,1 @@
-# pyrito.github.io
-
-This is the build for my personal site.
+My portfolio website credit to this theme: https://github.com/b2a3e8/jekyll-theme-console/tree/gh-pages

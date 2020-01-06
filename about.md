@@ -1,31 +1,44 @@
 ---
-title: About
 layout: page
+title: /about
+permalink: /about/
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! My name is Karthik and I’m currently a freshman at The University of Texas at Austin majoring in Computer Science. I’ve had a significant amount of experience related to programming and robotics. I’ve done research internships at The University of Texas at Dallas and worked on multiple projects related to robotics and embedded systems. I plan on conducting research in AI later on.</p>
+# About me
+![image](/img/profile.jpg#profile)
 
-<h2>Skills</h2>
+<hr style="height:10px; visibility:hidden;" />
 
-<ul class="skill-list">
-	<li>HTML</li>
-	<li>Java</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>CSS Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript</li>
-	<li>Unix Shell</li>
-	<li>C</li>
-	<li>C++</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-</ul>
+My name is Karthik Velayutham, a junior at UT Austin studying in Computer Science (Turing Scholars). This site is my safe space to freely post my ideas/thoughts as well as a portfolio for the various things I have accomplished in my 20 years of living. 
 
-<h2>Projects</h2>
+<hr style="height:10px; visibility:hidden;" />
 
-<ul>
-	<li><a href="https://github.com/">RMRduino</a></li>
-	<li><a href="https://github.com/">OmniBraille</a></li>
-	<li><a href="https://github.com/">ParkIt</a></li>
-</ul>
+I am passionate about systems-related work and anything low-level in general. Some of the projects that I have worked on: paravirtual OS, threading libraries, compiler for a low-level language, file-system for a virtualized OS, and a C-library for Merkle Tree-based hashing for faster build times (intern project at VMware).
+
+<hr style="height:10px; visibility:hidden;" />
+
+Currently I am working in the SPARTA lab under Dr. Boyles where I do cool research with transporation engineering simulations (check out our GitHub!). 
+
+<hr style="height:10px; visibility:hidden;" />
+
+**Internships**:
+* AT&T (Dallas, TX) during the summer of 2018
+* VMware (Palo Alto, CA) during the summer of 2019
+* Jump Trading LLC (Chicago, IL) upcoming for the summer of 2020 
+
+<hr style="height:10px; visibility:hidden;" />
+
+**Notable Coursework**:
+* Concurrency Honors
+* Computer Architecture Honors
+* Operating Systems Honors
+* Data Structures Honors
+* Prediction Mechanisms in Computer Architecture
+* Virtualization
+* Graduate Transportation Network Analysis
+* Artificial Intelligence Honors
+* Computer Vision
+
+<hr style="height:10px; visibility:hidden;" />
+
+Feel free to reach out to if you want to discuss any of my posts or projects!

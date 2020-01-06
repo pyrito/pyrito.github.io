@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <title>/karthik_velayutham</title><link rel="stylesheet" type="text/css" href="/assets/main-light.css"></head>
-<body>
-    <div class="container"><header>
-  <div class="menu">
-    <ul><li><b><a href="/">/karthik_velayutham</a></b></li><li><b><a href="/about/">/about</a></b></li><li><b><a href="/blog/">/blog</a></b></li><li><b><a href="/contact">/contact</a></b></li></ul>
-  </div>
-</header>
-<main>
-      <h1 id="welcome">Welcome!</h1>
+I"c<h1 id="welcome">Welcome!</h1>
 
 <hr style="height:10px; visibility:hidden;" />
 
@@ -132,11 +119,4 @@
 
     </div>
 </body>
-
-
-    </main><footer>
-  made with ❤️ in austin, tx
-</footer>
-</div>
-  </body>
-</html>
+:ET
