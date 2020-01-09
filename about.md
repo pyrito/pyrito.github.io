@@ -17,14 +17,14 @@ I am passionate about systems-related work and anything low-level in general. So
 
 <hr style="height:10px; visibility:hidden;" />
 
-Currently I am working in the SPARTA lab under Dr. Boyles where I do cool research with transporation engineering simulations (check out our GitHub!). 
+Currently I am working in the [SPARTA](https://github.com/spartalab) lab under Dr. Boyles where I do cool research with transporation engineering simulations (check out our GitHub!). 
 
 <hr style="height:10px; visibility:hidden;" />
 
 **Internships**:
-* AT&T (Dallas, TX) during the summer of 2018
-* VMware (Palo Alto, CA) during the summer of 2019
 * Jump Trading LLC (Chicago, IL) upcoming for the summer of 2020 
+* VMware (Palo Alto, CA) during the summer of 2019
+* AT&T (Dallas, TX) during the summer of 2018
 
 <hr style="height:10px; visibility:hidden;" />
 
@@ -38,7 +38,8 @@ Currently I am working in the SPARTA lab under Dr. Boyles where I do cool resear
 * Graduate Transportation Network Analysis
 * Artificial Intelligence Honors
 * Computer Vision
+* Compilers
 
 <hr style="height:10px; visibility:hidden;" />
 
-Feel free to reach out to if you want to discuss any of my posts or projects!
+Feel free to reach out to if you want to discuss any of my posts or projects! This site was made with Jekyll.

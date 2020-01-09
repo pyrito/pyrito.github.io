@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <title>/about</title><link rel="stylesheet" type="text/css" href="/assets/main-light.css"></head>
-<body>
-    <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>/about | katthicktv</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="/about" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="My portfolio built with a jekyll theme" />
-<meta property="og:description" content="My portfolio built with a jekyll theme" />
-<link rel="canonical" href="http://localhost:4000/about/" />
-<meta property="og:url" content="http://localhost:4000/about/" />
-<meta property="og:site_name" content="katthicktv" />
-<script type="application/ld+json">
-{"description":"My portfolio built with a jekyll theme","@type":"WebSite","url":"http://localhost:4000/about/","headline":"/about","name":"katthicktv","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-
-    <div class="container"><header>
-  <div class="menu">
-    <ul><li><b><a href="/">/karthik_velayutham</a></b></li><li><b><a href="/about/">/about</a></b></li><li><b><a href="/blog/">/blog</a></b></li><li><b><a href="/contact">/contact</a></b></li></ul>
-  </div>
-</header>
-<main>
-      <h1 id="about-me">About me</h1>
+I"�<h1 id="about-me">About me</h1>
 <p><img src="/img/profile.jpg#profile" alt="image" /></p>
 
 <hr style="height:10px; visibility:hidden;" />
@@ -68,12 +40,5 @@
 
 <hr style="height:10px; visibility:hidden;" />
 
-<p>Feel free to reach out to if you want to discuss any of my posts or projects!</p>
-
-
-    </main><footer>
-  made with ❤️ in austin, tx
-</footer>
-</div>
-  </body>
-</html>
+<p>Feel free to reach out to if you want to discuss any of my posts or projects! (Or would like a copy of my resume)</p>
+:ET
