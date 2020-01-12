@@ -9,7 +9,7 @@ categories:
 January 8th, 2020
 _NOTE: This post is another stream of consciousness_
 
-<img src="https://cdn-static.denofgeek.com/sites/denofgeek/files/2018/01/the-prestige-teslass-machine.jpg" alt="Girl in a jacket" style="width:50% height: 50%">
+<img src="https://cdn-static.denofgeek.com/sites/denofgeek/files/2018/01/the-prestige-teslass-machine.jpg" alt="The Prestige clip" style="width:50% height: 50%">
 
 <br>
 I recently watched _The Prestige_ after being told by many people (namely Rishabh and Will) that I would not be a true Nolan fan without having seen one of his classics. Needless to say, I was absolutely and thoroughly _beaned_ by this film. I don't wanna spoil anything for those who might wanna see it, but Nolan kinda twisted my brain again. Everything was beautifully crafted and set up so well that it all came together perfectly. Christopher Nolan is not a sophisticated story teller. In fact, he has very simple ideas that he just executes well. His concepts are not novel, in fact, I'm sure there are plenty of other films that genuinely have more interesting plots. For example, who the hell thought a movie about Batman and Joker would be so interesting? I didn't, until I saw _The Dark Knight_ trilogy. There was nothing special, except the execution and focus on a few central themes is what drives everything home.

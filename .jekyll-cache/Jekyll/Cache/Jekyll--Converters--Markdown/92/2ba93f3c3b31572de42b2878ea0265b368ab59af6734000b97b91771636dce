@@ -1,4 +1,4 @@
-I"„<h1 id="about-me">About me</h1>
+I"¤<h1 id="about-me">About me</h1>
 <p><img src="/img/profile.jpg#profile" alt="image" /></p>
 
 <hr style="height:10px; visibility:hidden;" />
@@ -40,5 +40,5 @@
 
 <hr style="height:10px; visibility:hidden;" />
 
-<p>Feel free to reach out to if you want to discuss any of my posts or projects!</p>
+<p>Feel free to reach out to if you want to discuss any of my posts or projects! This site was made with Jekyll.</p>
 :ET

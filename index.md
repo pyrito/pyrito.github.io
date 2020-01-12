@@ -8,7 +8,7 @@ permalink: /
 
 <hr style="height:10px; visibility:hidden;" />
 Hey there! If you've stumbled upon this website then one of three things must have happened:
-* You decided to check out my website b/c I have posted it on my social media, etc.
+* You decided to check out my website b/c I posted it on my social media, etc.
 * Google magically brought you here through some dumb luck
 * Blogs are cool again and I'm starting to become famous! (fingers crossed)
 
