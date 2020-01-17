@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taking Education For Granted"
-date:   2020-1-16 21:48:00 -0600
+date:   2020-1-16 01:48:00 -0600
 categories: 
 ---
 
