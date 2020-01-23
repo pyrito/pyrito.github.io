@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Taking Education For Granted"
+title:  "First Few Days Back at School"
 date:   2020-1-22 11:48:00 -0600
 categories: 
 ---
