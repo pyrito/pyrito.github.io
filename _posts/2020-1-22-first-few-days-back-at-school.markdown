@@ -31,5 +31,4 @@ I'm not going to lie, I've been feeling pretty overwhelmed ever since I've gotte
 >_Save me from my disaster, my disaster_
 <hr style="height:10px; visibility:hidden;" />
 
-<hr style="height:10px; visibility:hidden;" />
 I'm hoping that everything goes smoothly this semester. I want to have fun, be happy, learn a lot, and feel fulfilled. If I can achieve these things, I think that will be pretty successful from my perspective. Gotta just hope for the best!
