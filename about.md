@@ -17,7 +17,7 @@ I am passionate about systems-related work and anything low-level in general. So
 
 <hr style="height:10px; visibility:hidden;" />
 
-Currently I am working in the [SPARTA](https://github.com/spartalab) lab under Dr. Boyles where I do cool research with transporation engineering simulations (check out our GitHub!). 
+Currently I am working in the [SPARTA](https://github.com/spartalab) lab under Dr. Boyles where I do cool research with transporation engineering simulations and parallelized optimization algorithms. 
 
 <hr style="height:10px; visibility:hidden;" />
 
@@ -37,7 +37,7 @@ Currently I am working in the [SPARTA](https://github.com/spartalab) lab under D
 * Virtualization
 * Graduate Transportation Network Analysis
 * Artificial Intelligence Honors
-* Computer Vision
+* Distributed Computing
 * Compilers
 
 <hr style="height:10px; visibility:hidden;" />
