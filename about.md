@@ -9,7 +9,7 @@ permalink: /about/
 
 <hr style="height:10px; visibility:hidden;" />
 
-My name is Karthik Velayutham, a junior at UT Austin studying in Computer Science (Turing Scholars). This site is my safe space to freely post my ideas/thoughts as well as a portfolio for the various things I have accomplished in my 20 years of living. 
+My name is Karthik Velayutham, a junior at UT Austin studying Computer Science (Turing Scholars). This site is my safe space to freely post my ideas/thoughts as well as a portfolio (still need to set this up) for the various things I have accomplished in my 20 years of living. 
 
 <hr style="height:10px; visibility:hidden;" />
 
