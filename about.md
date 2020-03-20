@@ -20,6 +20,9 @@ I am passionate about systems-related work and anything low-level in general. So
 Currently I am working in the [SPARTA](https://github.com/spartalab) lab under Dr. Boyles where I do cool research with transporation engineering simulations and parallelized optimization algorithms. 
 
 <hr style="height:10px; visibility:hidden;" />
+I am also working in the [UT Systems and Storage](https://utsaslab.github.io/) lab under Dr. Vijay Chidambaram, where I work with persistent memory crash consistency and various distributed systems research topics. 
+
+<hr style="height:10px; visibility:hidden;" />
 
 **Internships**:
 * Jump Trading LLC (Chicago, IL) upcoming for the summer of 2020 
