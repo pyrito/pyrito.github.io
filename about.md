@@ -37,10 +37,11 @@ I am also working in the [UT Systems and Storage](https://utsaslab.github.io/) l
 * Operating Systems Honors
 * Data Structures Honors
 * Prediction Mechanisms in Computer Architecture
+* Scientific and Parallel Computing
 * Virtualization
 * Graduate Transportation Network Analysis
 * Artificial Intelligence Honors
-* Distributed Computing
+* Distributed Computing (audited)
 * Compilers
 
 <hr style="height:10px; visibility:hidden;" />
