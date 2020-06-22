@@ -9,7 +9,7 @@ permalink: /about/
 
 <hr style="height:10px; visibility:hidden;" />
 
-My name is Karthik Velayutham, a junior at UT Austin studying Computer Science (Turing Scholars). This site is my safe space to freely post my ideas/thoughts as well as a portfolio (still need to set this up) for the various things I have accomplished in my 21 years of living. 
+My name is Karthik Velayutham, a senior at UT Austin studying Computer Science (Turing Scholars). This site is my safe space to freely post my ideas/thoughts as well as a portfolio (still need to set this up) for the various things I have accomplished in my 21 years of living. 
 
 <hr style="height:10px; visibility:hidden;" />
 
@@ -25,7 +25,7 @@ I am also working in the [UT Systems and Storage](https://utsaslab.github.io/) l
 <hr style="height:10px; visibility:hidden;" />
 
 **Internships**:
-* Jump Trading LLC (Chicago, IL) upcoming for the summer of 2020 
+* Jump Trading LLC (Chicago, IL) during the summer of 2020 
 * VMware (Palo Alto, CA) during the summer of 2019
 * AT&T (Dallas, TX) during the summer of 2018
 
