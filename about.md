@@ -41,8 +41,11 @@ I am also working in the [UT Systems and Storage](https://utsaslab.github.io/) l
 * Virtualization
 * Graduate Transportation Network Analysis
 * Artificial Intelligence Honors
-* Distributed Computing (audited)
+* Graduate Distributed Computing (audited)
 * Compilers
+
+<hr style="height:10px; visibility:hidden;" />
+In my free time, I enjoy playing the electric bass (thank you to my amazing friends who purchased one for me), listening to music, and reading things on Wikipedia. 
 
 <hr style="height:10px; visibility:hidden;" />
 
