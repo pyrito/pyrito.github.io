@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Try Not To Let Others or Yourself Box You In"
-date:   2020-7-11 00:48:00 -0600
+date:   2020-7-13 00:48:00 -0600
 categories: 
 ---
 
 # Try Not To Let Others or Yourself Box You In
-July 11th, 2020
+July 13th, 2020
 <hr style="height:10px; visibility:hidden;" />
 _To start off, I find it really hard to believe that it's already July. Lockdown started in March and so much has changed since then. Things are moving ridiculously fast as well as the number of coronavirus cases!! Exciting times for all of humanity. I think it's interesting that the one year that I decided to commit myself to writing on my blog consistently ended up being quite the chaotic span of time in decades. Ah well, I guess we can't really do much about it._
 
