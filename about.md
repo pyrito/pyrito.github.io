@@ -20,7 +20,7 @@ I am passionate about systems-related work and anything low-level in general. So
 Currently I am working in the [SPARTA](https://github.com/spartalab) lab under Dr. Boyles where I do cool research with transporation engineering simulations and parallelized optimization algorithms. 
 
 <hr style="height:10px; visibility:hidden;" />
-I am also working in the [UT Systems and Storage](https://utsaslab.github.io/) lab under Dr. Vijay Chidambaram, where I work with persistent memory crash consistency and various distributed systems research topics. 
+I am also currently working in the SCEA lab under Christopher J. Rossbach where I work on heterogenous computing problems, specifically in the region of hardware accelerators (FPGAs) + graph analytics.
 
 <hr style="height:10px; visibility:hidden;" />
 
@@ -33,6 +33,7 @@ I am also working in the [UT Systems and Storage](https://utsaslab.github.io/) l
 
 **Notable Coursework**:
 * Concurrency Honors
+* Graduate Operating Systems
 * Computer Architecture Honors
 * Operating Systems Honors
 * Data Structures Honors
