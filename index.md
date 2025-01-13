@@ -27,7 +27,7 @@ Anyhow, you've reached my website! You can check out some of my favorite things 
 >2. Whiplash
 >3. Inception
 >4. The Social Network
->5. Creed
+>5. Django Unchained
 >6. La La Land
 >7. Dunkirk
 >8. The Dark Knight Rises
@@ -35,7 +35,7 @@ Anyhow, you've reached my website! You can check out some of my favorite things 
 >10. Spirited Away
 >11. Howl’s Moving Castle
 
->(Huge Christopher Nolan fan!)
+>(Huge Christopher Nolan & Miyazaki fan!)
 
 **Favorite Artists**
 

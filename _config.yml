@@ -11,7 +11,7 @@ header_pages:
 
 style: light
 
-footer: 'made with ❤️ in austin, tx'
+footer: 'made with ❤️ in chicago, il'
 
 plugins:
   - jekyll-seo-tag
