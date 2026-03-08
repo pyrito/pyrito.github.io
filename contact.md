@@ -4,7 +4,7 @@ layout: page
 permalink: /contact
 ---
 # Contact
-* [Email](mailto:vkarthik@cs.utexas.edu)
+* [Email](mailto:karthik.velayutham@gmail.com)
 * [Github](https://www.github.com/pyrito)
 * [LinkedIn](https://www.linkedin.com/in/kvelayutham22/)
 
